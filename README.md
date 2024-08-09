@@ -1,2 +1,3 @@
 # simple-landing-page
 the html and css using create a landing page.....
+this is image for landing page.![screen shot-landing page](https://github.com/user-attachments/assets/ac4f7b32-9a15-4436-92e2-10dc0f5bfe78)
